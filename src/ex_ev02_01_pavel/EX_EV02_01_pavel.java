@@ -18,6 +18,8 @@ public class EX_EV02_01_pavel {
         Scanner sc= new Scanner(System.in);
      System.out.println("introduce un numero");
      
+        System.out.println("pruebas");
+     
         int numero;
         int contador_impares=0;
        
